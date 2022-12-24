@@ -1,6 +1,6 @@
 -<img src=https://i.imgur.com/rEqOMzN.jpg/>
 # Creation of a Virtual Machine on Microsoft Azure
-In this tutorial we will create a virtual machine on Microsoft Azure.<br />
+In this walkthrough we will create a Windows 10 Pro virtual machine on Microsoft Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
 
