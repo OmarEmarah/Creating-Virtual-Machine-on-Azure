@@ -66,4 +66,4 @@ In this walkthrough we will create a Windows 10 Pro virtual machine on Microsoft
 - Step 7
 
 - <img src=https://i.imgur.com/6sc3jxh.png/>
-- Once deployment is complete.  You now have a virtual machine. Click on "go to resource" and inspect your new virtual machine
+- Once deployment is complete.  You now have a virtual machine. Click on "go to resource" and inspect your new virtual machine.
